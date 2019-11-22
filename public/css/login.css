@@ -1,0 +1,42 @@
+body {
+    background-color: #f5f5f5;
+}
+
+.login-form-signin {
+    max-width: 350px;
+    padding: 19px 29px 29px;
+    margin: 0 auto 20px;
+    background-color: #fff;
+    border: 1px solid #e5e5e5;
+    box-shadow: rgba(0, 0, 0, 0.129412) 0px 1px 3px 0px;
+    -webkit-border-radius: 5px;
+        moz-border-radius: 5px;
+            border-radius: 5px;
+}
+
+.login-form-signin .login-form-signin-heading,
+.login-form-signin .login-checkbox {
+    margin-bottom: 10px;
+}
+
+.login-form-signin input[type="text"],
+.login-form-signin input[type="password"] {
+    font-size: 16px;
+    height: auto;
+    margin-bottom: 15px;
+    padding: 7px 9px;
+}
+
+label {
+    color: rgb(119, 119, 119);
+    font-weight: lighter;
+}
+
+a {
+    color: rgb(119, 119, 119);
+    font-weight: lighter;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
